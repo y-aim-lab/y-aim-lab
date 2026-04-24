@@ -3,7 +3,7 @@
 I build AI-powered tools.
 
 🛠 Tech:
- HTML / CSS / JavaScript / Python
+- HTML / CSS / JavaScript / Python
 
 🌐 Live Demo:
 - https://y-aim-lab.github.io/hidden-memo/
