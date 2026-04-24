@@ -2,9 +2,6 @@
 
 I build AI-powered tools.
 
-🚧 Currently building:
-- Laundry Care Label Scanner
-
 🛠 Tech:
 HTML / CSS / JavaScript / Python
 
