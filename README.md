@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I build AI-powered tools.
+
+🚧 Currently building:
+- Laundry Care Label Scanner
+
+🛠 Tech:
+HTML / CSS / JavaScript / Python
+
+🌊 I love the ocean
+
 <!--
 **y-aim-lab/y-aim-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
