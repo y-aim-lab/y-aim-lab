@@ -5,6 +5,10 @@ I build AI-powered tools.
 🛠 Tech:
 HTML / CSS / JavaScript / Python
 
+🌐 Live Demo:
+https://y-aim-lab.github.io/hidden-memo/
+https://y-aim-lab.github.io/laundry-scanner/
+
 🌊 I love the ocean
 
 <!--
